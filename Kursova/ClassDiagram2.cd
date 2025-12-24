@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Kursova.LoginForm">
+    <Position X="7.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAAEAACAAABAAAACABAACAAAAAIAAABAAAABAAAA=</HashCode>
+      <FileName>LoginFrom.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Kursova.FilmAddForm">
+    <Position X="11.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIAAACAAABAAAACgAAACAAAACJAABAAEAAIAAAA=</HashCode>
+      <FileName>FilmAddForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Kursova.FilmListForm">
+    <Position X="9.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAASAAAAAEAACAAAQCCAAAAIAgIAAAAEACAAI=</HashCode>
+      <FileName>FilmListForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Kursova.HallSchemeForm">
+    <Position X="13" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ASAAAAAAACAAABAAAACIAAICAIAAAIAAACAAAABAAAA=</HashCode>
+      <FileName>HallSchemeForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Kursova.MainMenu">
+    <Position X="14.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gQAAAIACECAAQBAAQACIADACACBACIAIAAABAAABAAA=</HashCode>
+      <FileName>MainMenu.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Kursova.SessionAddForm">
+    <Position X="6" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAAAABCAAABAAAACAAACCAAAAAJACAAAAAEIQAAA=</HashCode>
+      <FileName>SessionAddForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Kursova.SessionListForm">
+    <Position X="4.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAABCABEAAAAACAAKkCABAAgIAAAAAAQCAAARA=</HashCode>
+      <FileName>SessionListForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Kursova.TicketListForm">
+    <Position X="0.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAADCAAAAAAACmAAIAKAAAEAIEAAAAAAAAAAAA=</HashCode>
+      <FileName>TicketListForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Kursova.TicketReserveForm">
+    <Position X="2.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAABAAACAAABAAAAiAACACAAAAAIAiBAAIAAAAAAQ=</HashCode>
+      <FileName>TicketReserveForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Kursova.Program">
+    <Position X="11.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
